@@ -32,6 +32,7 @@ diccionario = {
     "trabajo": "arbete"
 }
 
-print("mi diccionario espanol - sueco")
+print("Mi diccionario Español - Sueco 🇸🇪")
+palabra = input("Escribe una palabra en español (ej: hola, gracias): ").lower()
 print(f"{palabra} es {diccionario.get(palabra, 'no encontrada')}")
-print(f"Listo! {len(diccionario)} palabras")
+print(f"Listo! Tengo {len(diccionario)} palabras")
