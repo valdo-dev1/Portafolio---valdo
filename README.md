@@ -9,4 +9,5 @@ Corre el archivo diccionario-sueco.py y escribe palabras como tack, van, sol.
 ## Tecnologias
 Python
 
-Hecho con amor desde Duarte, Guanajuato, Mexico
+Hecho con amor desde san juan de 
+otates, Guanajuato, Mexico
