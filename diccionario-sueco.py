@@ -33,6 +33,5 @@ diccionario = {
 }
 
 print("mi diccionario espanol - sueco")
-palabra = input("escribe tack, vän, sol, hej: ")
 print(f"{palabra} es {diccionario.get(palabra, 'no encontrada')}")
 print(f"Listo! {len(diccionario)} palabras")
